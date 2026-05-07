@@ -1,2 +1,7 @@
-# demo-estudio-juridico-sokol
-Demo web para estudio jurídico SOKOL — diseñada por eterlab.
+# estudio jurídico SOKOL
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
